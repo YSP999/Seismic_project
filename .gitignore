@@ -3,7 +3,7 @@
 *.segy
 *.dat
 *.npy
-
+*.png
 # 忽略 Python 缓存
 __pycache__/
 *.py[cod]
