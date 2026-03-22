@@ -1,0 +1,8 @@
+*.sgy
+*.png
+__pycache__/
+.ipynb_checkpoints/
+*.sgy
+*.png
+__pycache__/
+.ipynb_checkpoints/
