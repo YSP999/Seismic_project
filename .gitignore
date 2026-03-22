@@ -1,8 +1,17 @@
+# 忽略所有地震数据文件（最重要！）
 *.sgy
-*.png
+*.segy
+*.dat
+*.npy
+
+# 忽略 Python 缓存
 __pycache__/
-.ipynb_checkpoints/
-*.sgy
-*.png
-__pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+
+# 忽略保存的模型权重文件（通常很大）
+*.pth
+*.pkl
+
+# 忽略虚拟环境
+venv/
+.env
